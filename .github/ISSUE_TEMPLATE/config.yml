@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suggest a feature or share an idea
+    url: https://github.com/OWNER/REPO/discussions/categories/ideas
+    about: Features are discussed here, not in Issues. We build what several people need and what strengthens the core of Suprpod.
+  - name: Ask a question or get help
+    url: https://github.com/OWNER/REPO/discussions/categories/q-a
+    about: How does something work? Start here.
+  - name: Report a security issue
+    url: https://github.com/OWNER/REPO/security/advisories/new
+    about: Private reporting only. Please don't post security issues publicly.
