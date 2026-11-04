@@ -2,7 +2,7 @@
 
 A professional networking platform built by a developer, for developers. Canadian-first, with no black-box feed and no pay-to-play visibility.
 
-**Site:** https://suprpod.com (invite only for now)
+**Site:** https://suprpod.ca (invite only for now)
 
 ## What this repo is
 
